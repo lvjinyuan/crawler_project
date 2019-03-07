@@ -1,0 +1,5 @@
+
+from crawler.pipelines.pipelines import Weibo1Pipeline,DownloadImagesPipeline
+from crawler.pipelines.xlpipelines import XinLangPipeline
+from crawler.pipelines.rmw_pipelines import RenMingPipeline
+from crawler.pipelines.tb_pipelines import BaiDuTBPipeline

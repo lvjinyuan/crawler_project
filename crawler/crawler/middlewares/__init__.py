@@ -1,0 +1,2 @@
+
+from crawler.middlewares.middlewares import RandomUserAgentMiddleware
